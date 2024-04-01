@@ -1,14 +1,14 @@
-<h2 align="left">Hi 👋! My name is Viraj Kalantre and I'm a passionate developer from India.</h2>
+### About Me 💼
+Hey there! 👋 I'm Viraj kalantre, a final year college student with a burning passion for software development and technology. With a keen interest in crafting elegant code and solving complex problems, I've honed my skills in Java, C++, Python, HTML, CSS, PHP, and SQL. Whether it's building robust backend systems, designing beautiful user interfaces, or optimizing database queries, I'm always up for a challenge!
 
-###
+Let's connect and embark on this exciting journey together! 😊
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Viraaajk063&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viraaajk063&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
+### Skills: 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -25,19 +25,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
-###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
+### Education
+- Bachelor's Degree in Computer science, Modern college,Shivajinagar,Pune Graduated June 2022.
+- Pursuing Master's Degree in Computer Applications, MIT-WPU, Pune Graduating June 2024.
 
-<br clear="both">
+### Contact Me
+- LinkedIn: https://www.linkedin.com/in/viraj-kalantre-704628252/
+- Email: Kvviraj063@gmail.com
 
-<img src="https://raw.githubusercontent.com/Viraaajk063/Viraaajk063/output/snake.svg" alt="Snake animation" />
-
-###
+### Let's Connect!
+Feel free to reach out for collaboration opportunities, project discussions, or just to say hi! 😊
