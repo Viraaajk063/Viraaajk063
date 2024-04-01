@@ -8,7 +8,7 @@ Let's connect and embark on this exciting journey together! 😊
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Viraaajk063&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Skills: 
+### Skills 🛠️
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -26,14 +26,25 @@ Let's connect and embark on this exciting journey together! 😊
 </div>
 
 
+### Projects 🚀
+Here are some projects I've had the pleasure to work on:
 
-### Education
+1. **Stock Prediction (https://github.com/ninadzanje19/Stock_Prediction/tree/dev_viraj)** - Python project which is used to predict stock prices.
+
+2. **SocialConnect (https://github.com/Viraaajk063/SocialConect)** - Replica of Instagram.
+
+3. **Feed the Hunger (https://github.com/Viraaajk063/FeedTheHunger)**
+   
+Feel free to explore these projects for a glimpse into my coding journey! 🌟
+
+
+### Education 🎓
 - Bachelor's Degree in Computer science, Modern college,Shivajinagar,Pune Graduated June 2022.
 - Pursuing Master's Degree in Computer Applications, MIT-WPU, Pune Graduating June 2024.
 
-### Contact Me
+### Contact Me 📧
 - LinkedIn: https://www.linkedin.com/in/viraj-kalantre-704628252/
 - Email: Kvviraj063@gmail.com
 
-### Let's Connect!
+### Let's Connect! 🌐
 Feel free to reach out for collaboration opportunities, project discussions, or just to say hi! 😊
